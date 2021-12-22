@@ -1,0 +1,7 @@
+This Project was created to stream a USB-Camera with OpenCV in a Web-Application.
+I used a Windows-PC and Visual Studio Code to create this Project.
+
+The streaming part of this project was by this tutorial:
+https://www.youtube.com/watch?v=xz9MvyKGYio
+
+I changed the project structure, but the tutorial was a good start to learn something about how to stream a camera in django.
